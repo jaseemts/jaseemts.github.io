@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: Bus or Business Opportunity
 layout: post
 alias: 
