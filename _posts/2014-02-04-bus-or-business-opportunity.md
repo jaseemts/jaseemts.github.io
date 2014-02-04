@@ -6,9 +6,7 @@ alias:
   - "/post/75473153765/just-a-bus-or-business-opportunity"
 ---
 
-## Bus or Business Opportunity
-
-![bus](/_posts/tumblr_inline_n0f4j5z4Sc1syxbug.jpg)
+![Bus](https://dl.dropboxusercontent.com/u/4296464/blog-images/bus.jpg)
 
 Most of the people see just a bus.
 
