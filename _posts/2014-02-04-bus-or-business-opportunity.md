@@ -1,5 +1,9 @@
 ---
 published: false
+title: Bus or Business Opportunity
+layout: post
+alias: 
+  - "/post/75473153765/just-a-bus-or-business-opportunity"
 ---
 
 ## Bus or Business Opportunity
