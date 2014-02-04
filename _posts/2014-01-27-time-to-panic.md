@@ -1,4 +1,7 @@
-## It’s time to panic if the startup founders don’t fight
+---
+title: It’s time to panic if the startup founders don’t fight
+layout: post
+---
 
 [According to Paul Graham](http://www.paulgraham.com/startupfaq.html), most successful startups have more than one founder. And once you’ve co-founders, there will be fights and disagreements. Trust me, healthy debates are always a good thing for your startup.
 
