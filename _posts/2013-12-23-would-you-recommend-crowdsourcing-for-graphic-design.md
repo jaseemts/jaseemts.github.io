@@ -16,7 +16,7 @@ With the experience we had gained working on such platforms, we managed to start
 
 During this time, we’ve been approached by a lot of quality startups and SMEs to work for them. But as a startup ourselves, with a small team — we were not able to take up all the work either because they don’t have enough funding or because our hands were full.
 
-There is still a great demand for designs and supply for quality design is very low. Not everyone can afford premium rates, but they should not be cheated with cheap quality works.
+> There is still a great demand for designs and supply for quality design is very low. Not everyone can afford premium rates, but they should not be cheated with cheap quality works.
 
 This is indeed a problem to solve.
 
@@ -39,7 +39,10 @@ This is always the best, no matter what the other options are.
 
 **Time and design choices**: Once we have dealt with the money factor, the most important thing that troubles a lot of startups, small and medium enterprises is the turn around time and design options they get. Crowdsourcing platforms solve this as most design projects get finished within a week and provide a lot of design options.
 
-**Bottomline**
+---
+
+**Bottomline**:
+
 Crowdsourcing platforms still work because of two facts:
 
 - Not everyone has deep pockets.
