@@ -17,10 +17,11 @@ But there are another set of people who see more. They see:
 - Spare parts
 - Paint/Body artwork
 - Fuel
-- The list goes on.
+
+The list goes on.
 
 > While 99% of the people see just a bus, the rare 1% see business opportunity.
 
-**Phanindra Sama** saw **[Tickets](redbus.in)**.
+**Phanindra Sama** saw **[Tickets](www.redbus.in)**.
 
 Great entrepreneurs always find new business ideas by observing opportunities in their everyday life.
