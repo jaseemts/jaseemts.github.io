@@ -22,6 +22,6 @@ The list goes on.
 
 > While 99% of the people see just a bus, the rare 1% see business opportunity.
 
-**Phanindra Sama** saw **[Tickets](www.redbus.in)**.
+**Phanindra Sama** saw **[Tickets](http://www.redbus.in)**.
 
 Great entrepreneurs always find new business ideas by observing opportunities in their everyday life.
