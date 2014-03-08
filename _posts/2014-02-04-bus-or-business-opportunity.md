@@ -8,9 +8,9 @@ alias:
 
 ![Bus](https://dl.dropboxusercontent.com/u/4296464/blog-images/bus.jpg)
 
-Most of the people see just a bus.
+Take a look at the above image. What do you see? Most of the people see just a bus.
 
-But there are another set of people. They don’t see just a bus. They see:
+But there are another set of people who see more. They see:
 
 - Glass
 - Tyre
@@ -19,8 +19,8 @@ But there are another set of people. They don’t see just a bus. They see:
 - Fuel
 - The list goes on.
 
-While 99% of the people see just a bus, the rare 1% see business opportunity.
+> While 99% of the people see just a bus, the rare 1% see business opportunity.
 
-**Phanindra Sama** saw Tickets.
+**Phanindra Sama** saw **[Tickets](redbus.in)**.
 
 Great entrepreneurs always find new business ideas by observing opportunities in their everyday life.
