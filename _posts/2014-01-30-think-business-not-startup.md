@@ -18,7 +18,7 @@ But… How many of us make it to the second year? Not as many as you’d think. 
 
 Because at the end of the day, it’s all about selling. It’s about getting more customers.
 
-It’s about paying the bills. It’s about how well you can balance your expenses and income. It’s about profitability. It’s about staying in the business. It’s about surviving.
+It’s about paying the bills. It’s about surviving. It’s about how well you can balance your expenses and income. It’s about staying in the business. It’s about profitability.
 
 It’s pure business.
 
