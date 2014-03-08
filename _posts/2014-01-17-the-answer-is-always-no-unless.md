@@ -3,7 +3,7 @@ published: true
 layout: post
 ---
 
-We started WowMakers over two years ago in an office that was barely 100 square feet - just enough for the 3 of us who started the company. Without funds, our only option was to start an office in our hometown, a small town near the northern tip of Kerala.
+We started [WowMakers](http://wowmakers.com) over two years ago in an office that was barely 100 square feet - just enough for the 3 of us who started the company. Without funds, our only option was to start an office in our hometown, a small town near the northern tip of Kerala.
 
 We realized how important it was for us to network with other entrepreneurs if we wanted to scale our business. The only network we had in our hometown were people like the chai-wallah and the guy who ran the mobile recharge shop next door to our office.
 
